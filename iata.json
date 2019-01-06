@@ -336,9 +336,34 @@
         "iata":"CQD"
     },
     {
-        "name_fa": "",
-        "name_en": "",
-        "iata":""
+        "name_fa": "سیرجان",
+        "name_en": "Sirjan",
+        "iata":"SYJ"
+    },
+    {
+        "name_fa": "سیری",
+        "name_en": "Sirri",
+        "iata":"SXI"
+    },
+    {
+        "name_fa": "طبس",
+        "name_en": "Tabas",
+        "iata":"TCX"
+    },
+    {
+        "name_fa": "یاسوج",
+        "name_en": "Yasouj",
+        "iata":"YES"
+    },
+    {
+        "name_fa": "کنگان",
+        "name_en": "Kangan",
+        "iata":"KNR"
+    },
+    {
+        "name_fa": "ارومیه",
+        "name_en": "Urmieh",
+        "iata":"OMH"
     },
     {
         "name_fa": "",
@@ -346,18 +371,13 @@
         "iata":""
     },
     {
-        "name_fa": "",
-        "name_en": "",
-        "iata":""
+        "name_fa": "زابل",
+        "name_en": "Zabol",
+        "iata":"ACZ"
     },
     {
-        "name_fa": "",
-        "name_en": "",
-        "iata":""
-    },
-    {
-        "name_fa": "",
-        "name_en": "",
-        "iata":""
+        "name_fa": "زنجان",
+        "name_en": "Zanjan",
+        "iata":"JWN"
     }
 ]
